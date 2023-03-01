@@ -1,0 +1,27 @@
+From 9f581b911917702812392530419cfd1cec3a5dd2 Mon Sep 17 00:00:00 2001
+From: Adarsh Singh <asrs9137@gmail.com>
+Date: Wed, 1 Mar 2023 12:10:22 +0530
+Subject: [PATCH]  some changed has done with buttons
+
+---
+ index.html | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/index.html b/index.html
+index 1f06b35..80c6469 100644
+--- a/index.html
++++ b/index.html
+@@ -18,8 +18,8 @@
+      <div class="row">
+       <button class="button">C</button>
+       <button class="button">%</button>
+-      <button class="button">M+</button>
+-      <button class="button">M-</button>
++      <button class="button">(</button>
++      <button class="button">)</button>
+       </div>
+      <div class="row">
+       <button class="button">7</button>
+-- 
+2.33.0.windows.2
+
